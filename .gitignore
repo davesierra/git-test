@@ -1,0 +1,8 @@
+tours.html
+*.zip
+.DS_Store
+assets/
+
+#BUT DO NOT IGNORE THESE IN ASSETS
+!assets/videos/
+*.txt

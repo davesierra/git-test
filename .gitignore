@@ -6,3 +6,4 @@ assets/
 #BUT DO NOT IGNORE THESE IN ASSETS
 !assets/videos/
 *.txt
+._*
